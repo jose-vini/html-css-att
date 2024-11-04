@@ -47,6 +47,10 @@ nav a {
     font-size: 12px;
     font-weight: 400;
 }
+.music{
+    width: 100px;
+    height: 100px;
+}
 
 .link-container{
     display: flex;
